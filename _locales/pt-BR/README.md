@@ -3,7 +3,6 @@
 
 ## Para usar como uma extensão
 
-This repository can be added as an **extension** in MakeCode.
 Este repositório pode ser adcionado como uma **extensão** no MakeCode.
 
 * abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
