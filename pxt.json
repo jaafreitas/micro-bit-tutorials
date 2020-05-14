@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "micro-led.md",
-        "_locales/pt-BR/micro-led.md"
+        "_locales/pt-BR/micro-led.md",
+        "_locales/pt-BR/README.md"
     ],
     "testFiles": [
         "test.ts"
